@@ -111,7 +111,9 @@
 		"https://github.com/cgutierrez/sublime-text-js-minifier",
 		"https://bitbucket.org/pjv/setdjangosyntax",
 		"https://github.com/ericof/Buildout-tmbundle",		
-		"https://github.com/ericof/Zope-tmbundle"
+		"https://github.com/ericof/Zope-tmbundle",
+		"https://github.com/simplesconsultoria/simplesconsultoria-sublimetext2",
+		"https://github.com/zephirworks/Varnish.tmbundle"
 	],
 	"package_name_map": {
 		"soda-theme": "Theme - Soda",
@@ -173,7 +175,9 @@
 		"sublime-text-js-minifier": "JS Minifier",
 		"setdjangosyntax": "SetDjangoSyntax",
 		"Buildout-tmbundle": "Buildout",
-		"Zope-tmbundle": "Zope"
+		"Zope-tmbundle": "Zope",
+		"simplesconsultoria-sublimetext2": "Simples Consultoria",
+		"Varnish.tmbundle": "Varnish"
 	},
 	"renamed_packages": {
 		"JSDocs": "DocBlockr",
